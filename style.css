@@ -1,0 +1,8 @@
+#magazine {
+  width: 100%;
+  height: 100svh;
+}
+
+#magazine .turn-page {
+  background-color: #ccc;
+}
