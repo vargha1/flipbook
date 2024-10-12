@@ -1,4 +1,4 @@
-import './style.css'
+import '/style.css'
 import * as T from "three"
 import gsap from "gsap";
 import { OrbitControls } from "three/examples/jsm/Addons.js";
