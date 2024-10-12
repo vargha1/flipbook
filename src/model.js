@@ -1,7 +1,7 @@
 import './style.css'
 import * as T from "three"
 import gsap from "gsap";
-import { OrbitControls, TextGeometry, FontLoader } from "three/examples/jsm/Addons.js";
+import { OrbitControls } from "three/examples/jsm/Addons.js";
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
 import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
